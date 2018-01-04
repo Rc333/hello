@@ -2,5 +2,5 @@
 
 This is a change for read-me
 =======
-This text is just check the commit
+This text is to just check the commit
 
